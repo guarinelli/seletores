@@ -1,0 +1,106 @@
+#bordinha1 {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-right: -3px;
+    margin-bottom: -4px;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+#bordinha2 {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-bottom: -3px;
+    margin-left: -4px;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+#bordinha3 {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-top: -3px;
+    margin-right: -3px;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+#bordinha4 {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-top: -3px;
+    margin-left: -4px;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+
+}
+.vermelho {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: red; 
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+
+.azul {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgba(0, 213, 255, 0.8);
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+
+}
+
+.verde {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+
+}
+
+.amarelo {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+
+
+
+
+
+
+
+
